@@ -1,7 +1,7 @@
 # Metadata
 title: "Fleaonaleaf's Command & Item List"
 favicon: assets/img/favicon.png
-description: A custom version of Toolkit's item list for Fleaonaleaf's modded Rimworld. This document is always a work in progress, therefore, a living document. Therefore, all items and commands are subject to change if my modlist does. 
+description: A custom version of Toolkit's item list for Fleaonaleaf's modded Rimworld. This document is always a work in progress, it's a living document. Therefore, all items and commands are subject to change if my modlist does. 
 
 baseurl: '/Fleas-Item-List' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
