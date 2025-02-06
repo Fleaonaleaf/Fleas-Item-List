@@ -46,7 +46,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives Everyone coins.",
+    "description": "Gives eveyrone coins.",
     "name": "Give all coins",
     "usage": "!giveallcoins <coins>",
     "userLevel": "Moderator",
@@ -389,7 +389,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Heal all",
+    "name": "Healall",
     "usage": "!healall",
     "userLevel": "Anyone",
     "shortcut": true,
@@ -676,7 +676,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's needs.",
+    "description": null,
     "name": "Viewer needs",
     "usage": "!mypawnneeds",
     "userLevel": "Anyone",
@@ -712,7 +712,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's body parts.",
+    "description": null,
     "name": "Viewer body",
     "usage": "!mypawnbody",
     "userLevel": "Anyone",
@@ -748,7 +748,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's story.",
+    "description": null,
     "name": "Viewer story",
     "usage": "!mypawnstory",
     "userLevel": "Anyone",
@@ -766,7 +766,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Lists your pawn's skills.",
+    "description": null,
     "name": "Viewer skills",
     "usage": "!mypawnskills",
     "userLevel": "Anyone",
@@ -1018,7 +1018,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn have a deep chat with a random pawn. If a viewer is specified, you'll have a deep chat with their pawn instead.",
+    "description": "Makes your pawn have a deep chat a random pawn. If a viewer is specified, you'll have a deep chat with their pawn instead.",
     "name": "Deep chat",
     "usage": "!deepchat [target]",
     "userLevel": "Anyone",
